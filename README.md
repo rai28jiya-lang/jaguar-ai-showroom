@@ -48,13 +48,29 @@ https://jaguar-insight-explorer.lovable.app
 
 ## Screenshots
 
-Upload screenshots and add them below.
+### Homepage
+![Homepage](IMG_20260611-WA0001.jpg)
 
-![Homepage](homepage.png)
+### AI Assistant
+![AI Assistant](IMG_20260611-WA0002.jpg)
 
-![AI Assistant](assistant.png)
+### Vehicle Customization
+![Vehicle Customization](IMG_20260611-WA0003.jpg)
 
-![Vehicle Customization](customization.png)
+### Interior View
+![Interior View](IMG_20260611-WA0004.jpg)
+
+### Car Color Options
+![Car Color Options](IMG_20260611-WA0005.jpg)
+
+### AI Interaction
+![AI Interaction](IMG_20260611-WA0006.jpg)
+
+### Jaguar Experience
+![Jaguar Experience](IMG_20260611-WA0007.jpg)
+
+### Project Showcase
+![Project Showcase](IMG_20260611-WA0008.jpg)
 
 ## Future Improvements
 
